@@ -1,1 +1,1 @@
-em-fullstack
+# Eidosmedia fullstack course
